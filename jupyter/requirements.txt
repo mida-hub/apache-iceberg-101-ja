@@ -1,0 +1,7 @@
+jupyterlab==4.3.5
+pyiceberg[duckdb,pandas,pyarrow,cython]==0.9.1
+duckdb==1.2.2
+pandas==2.2.3
+pyarrow==19.0.1
+sqlalchemy
+Cython
